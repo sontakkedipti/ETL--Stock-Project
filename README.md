@@ -1,7 +1,7 @@
 # Introduction
                                                                         
 This project was picked with the intention of utilizing stock recommendations by investingnews.com. An article that listed out six biofuel companies to invest in for 2022 was chosen as a base to work on. The biofuel companies this website suggested are Ametis, Alto Ingredients, Comstock, FutureFuel, Gevo and REX American Resources.
-The idea was to scrape ticker from the paragraph titles and search for that specific ticker’s data in a folder of stock history files. The files are titled after each ticker (ex. AAPL.csv) and provides the 2021-2022 history of that stock. All data relevant to this project has been added to the resources folder for convenience of the future users.
+The idea was to scrape ticker from the paragraph titles and search for that specific ticker’s data in a folder of stock history files. The files are titled after each ticker (ex. AAPL.csv) and provides the 2021-2022 history of that stock. All data relevant to this project have been added to the resources folder for convenience of the future users.
  
 
 # Data Extraction
