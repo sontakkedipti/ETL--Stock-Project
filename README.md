@@ -19,8 +19,8 @@ Multiple libraries of python have been used on jupyter notebook in order to tran
 
 
 # Data Loading
-
-The database that was used here for this project is PostgreSQL. A new database and a table was created before loading in order for PostgreSQL to receive the final data. After creating table, the final step was to load transformed data into PostgreSQL. The database is now up and running, and ready for further analysis. Variables that were used to create the table are visualized with QuickDBD as following:
+, 
+There were two options to chose from while deciding on a database, PostgreSQL and MONGODB. The database that was used finally for this project is PostgreSQL. As the data was consolidated into a dataframe, using a table in a database hence PostgreSQL seems more appropriate for this project. A new database and a table was created before loading in order for PostgreSQL to receive the final data. After creating table, the final step was to load transformed data into PostgreSQL. The database is now up and running, and ready for further analysis. Variables that were used to create the table are visualized with QuickDBD as following:
 
 ![image](https://user-images.githubusercontent.com/112669805/206549655-2f4378a8-4bcd-4738-b995-b612d565ec48.png)
 # Conclusion
