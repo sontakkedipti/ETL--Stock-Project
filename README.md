@@ -22,7 +22,7 @@ Multiple libraries of python have been used on jupyter notebook in order to tran
 
 The database that was used here for this project is PostgreSQL. A new database and a table was created before loading in order for PostgreSQL to receive the final data. After creating table, the final step was to load transformed data into PostgreSQL. The database is now up and running, and ready for further analysis. Variables that were used to create the table are visualized with QuickDBD as following:
 
-                                        ![image](https://user-images.githubusercontent.com/112669805/206549655-2f4378a8-4bcd-4738-b995-b612d565ec48.png)
+![image](https://user-images.githubusercontent.com/112669805/206549655-2f4378a8-4bcd-4738-b995-b612d565ec48.png)
 # Conclusion
 
 The purpose of this project was to find the most attractive biofuel stocks to invest in the year 2022. Hence necessary steps were taken to extract, transform and load the data relevant to these stocks.  This data is now ready for the next step to be analyzed further. There could be multiple targets to this future analysis like, which stock among these six can be attributed the most attractive to the niche of biofuel or are these stocks really that profitable at all or more companies can come in and out of these top six companies and so on. The same process can also be followed to prepare data for another niche segment of stocks to analyze the topmost attractive stocks to trade in a specific year. The possibilities are endless.
