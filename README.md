@@ -18,7 +18,7 @@ Multiple libraries of python have been used on jupyter notebook in order to tran
 ![image](https://user-images.githubusercontent.com/112669805/206549379-a69e50b6-9eab-450f-9512-60b9f01eaca8.png)
 
 
-# Load
+# Data Loading
 
 The database that was used here for this project is PostgreSQL. A new database and a table was created before loading in order for PostgreSQL to receive the final data. After creating table, the final step was to load transformed data into PostgreSQL. The database is now up and running, and ready for further analysis. Variables that were used to create the table are visualized with QuickDBD as following:
 
