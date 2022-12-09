@@ -25,7 +25,7 @@ There were two options to chose from while deciding on a database, PostgreSQL an
 ![image](https://user-images.githubusercontent.com/112669805/206549655-2f4378a8-4bcd-4738-b995-b612d565ec48.png)
 # Conclusion
 
-The purpose of this project was to find the most attractive biofuel stocks to invest in the year 2022. Hence necessary steps were taken to extract, transform and load the data relevant to these stocks.  This data is now ready for the next step to be analyzed further. There could be multiple targets to this future analysis like, which stock among these six can be attributed the most attractive to the niche of biofuel or are these stocks really that profitable at all or more companies can come in and out of these top six companies and so on. The same process can also be followed to prepare data for another niche segment of stocks to analyze the topmost attractive stocks to trade in a specific year. The possibilities are endless.
+The purpose of this project was to find the most attractive biofuel stocks to invest in the year 2022. Hence necessary steps were taken to extract, transform and load the data relevant to these stocks.  This data is now ready for the next step to be analyzed further. There could be multiple targets to this future analysis like, which stock among these six can be attributed the most attractive to the niche of biofuel or are these stocks really that profitable at all or more companies can come in and out of these top six companies and so on. The same process can also be followed to prepare data for another niche segment of stocks to analyze the top most attractive stocks to trade in a specific year. The possibilities are endless from here onwards.
 
 Regards
 
