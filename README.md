@@ -12,7 +12,14 @@ The database in PostgreSQL will then allow for an analyst to perform stock analy
 
 # Data Transformation
 
-Multiple libraries of python have been used on jupyter notebook in order to transform the data. Initially data was pulled using a URL, then findings were loaded into a dataframe. The data frame then was merged onto the six csv files that were chosen for this project. The final data that appeared after merging was converted to a csv file and loaded to the database. Flow of  steps taken for data transformation are as following:
+Multiple libraries of python have been used on jupyter notebook in order to transform the data. Initially data was pulled using a URL, then findings were loaded into a dataframe. The data frame then was merged onto the six csv files that were chosen for this project. The final data that appeared after merging was converted to a csv file and loaded to the database. As part of transformation the following has been achieved:
+
+1. HTML file has been parsed to achieve the titles which generates list of stocks that were needed for this project.
+2. AS part of web scraping company, exchange and ticker were retrieved which was eventually mapped against 
+ its stock type.
+3. To maintain consistency the column names were changed lower case spelling. 
+
+Flow of  steps taken for data transformation are as following:
 
 
 ![image](https://user-images.githubusercontent.com/112669805/206549379-a69e50b6-9eab-450f-9512-60b9f01eaca8.png)
