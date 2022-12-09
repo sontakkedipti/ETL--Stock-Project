@@ -22,7 +22,7 @@ Multiple libraries of python have been used on jupyter notebook in order to tran
 Flow of  steps taken for data transformation are as following:
 
 
-![image](https://user-images.githubusercontent.com/112669805/206549379-a69e50b6-9eab-450f-9512-60b9f01eaca8.png)
+![image](https://github.com/sontakkedipti/ETL-Stock-Project/blob/main/Code/Images/ETL%20Diagram.PNG)
 
 
 # Data Loading
