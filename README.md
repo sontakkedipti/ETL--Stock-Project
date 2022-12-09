@@ -18,6 +18,9 @@ Multiple libraries of python have been used on jupyter notebook in order to tran
 2. AS part of web scraping company, exchange and ticker were retrieved which was eventually mapped against 
  its stock type.
 3. To maintain consistency the column names were changed lower case spelling. 
+4. Extra column has been added to reflect the difference between high and low for individual dates.
+5. Extra column has been added to reflect the difference between open and close for individual dates.
+
 
 Flow of  steps taken for data transformation are as following:
 
